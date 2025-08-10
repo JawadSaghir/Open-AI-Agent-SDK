@@ -5,15 +5,6 @@
 
 ---
 
-## ✨ Visual improvements included in this README
-
-- **Hero SVG** (`/assets/README-hero.svg`) — scalable vector banner that renders perfectly on GitHub and mobile.
-- **Badges** for release, license, Python support, and CI status.
-- **Mermaid architecture diagram** and code blocks that preserve monospace formatting.
-- Optional: animated GIF demos (place under `/assets/demo.gif`).
-
----
-
 ## ⚡ Quickstart
 
 ```bash
