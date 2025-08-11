@@ -50,7 +50,8 @@ agent_auto = Agent(
     tools=[calculator, weather_tool],
     model_settings=ModelSettings(tool_choice="auto")
 )
-# Agent can only call the tool and return the reponse of tool. The AGENT will not run the llm again.By deafult the Agent run again after calling  the tool.
+# Agent can only call the tool and return the reponse of tool. The AGENT will not run the llm again.By deafult
+the Agent run again after calling  the tool.
 agent_auto = Agent(
     name="Smart Assistant",
     tools=[calculator, weather_tool],
